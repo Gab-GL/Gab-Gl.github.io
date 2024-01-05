@@ -1,5 +1,4 @@
-#hola
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Infosec Challenges</title>
