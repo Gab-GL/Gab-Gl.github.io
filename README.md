@@ -24,7 +24,6 @@
     </h2>
     <h2> 
     Ademas Andres es qlo, y no confia en Gabo God :(
-    Me lastimó tu falta de Confianza Andres :C
     </h2>
     <h2> 
     Me lastimó tu falta de Confianza Andres :C
