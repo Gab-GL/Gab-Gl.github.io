@@ -20,16 +20,16 @@
 
     <main>
     <h2> 
-    Ricardo Domingues no es chido, es mas chido Gabo God
+    El Alan se la come
     </h2>
     <h2> 
-    Ademas Andres es qlo, y no confia en Gabo God :(
+    :(
     </h2>
     <h2> 
-    Me lastimó tu falta de Confianza Andres :C
+    El Diego se pasa de lanza:(
     </h2>
-    <img data-visualcompletion="media-vc-image" alt="No hay ninguna descripción de la foto disponible." class="x1bwycvy x193iq5w x4fas0m x19kjcj4" referrerpolicy="origin-when-cross-origin" src="https://scontent.fmex10-3.fna.fbcdn.net/v/t39.30808-6/352390151_1012015100180396_451593534358079116_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=efb6e6&amp;_nc_ohc=wcQhkdh_LcMAX_yOVCr&amp;_nc_ht=scontent.fmex10-3.fna&amp;oh=00_AfC8eyi0I_PCnZj4F4U4LwQ1Y0nHli0jYkxYuM2IZKyjTQ&amp;oe=659B9BB4">
-    <img src="blob:https://web.whatsapp.com/bd841c21-4336-4c9b-9ef5-c1676d4e75fe" class="jciay5ix tvf2evcx oq44ahr5 lb5m6g5c osz0hll6 nq7eualt em5jvqoa a21kwdn3" style="width: 100%;">
+    <img  src="">
+    <img src="">
     </main>
 
     <footer>
