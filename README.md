@@ -23,7 +23,7 @@
     El Alan se la come
     </h2>
     <h2> 
-    :(
+    Tqm c;
     </h2>
     <h2> 
     El Diego se pasa de lanza:(
