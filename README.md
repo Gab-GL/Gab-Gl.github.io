@@ -14,7 +14,7 @@
   <body>
     <header>
       <h1>
-        Mike = señora barriga 
+        Mike = señor barriga 
       </h1>
     </header>
 
