@@ -29,7 +29,7 @@
     El Diego se pasa de lanza:(
     </h2>
     <img  src="https://www.facebook.com/photo/?fbid=936669767870938&set=a.234128168125105&__cft__">
-    <img src="">
+    <img src="https://www.facebook.com/photo/?fbid=936669767870938&set=a.234128168125105&__cft__[0]=AZWotdnGXrpZlvLNhxEoZnYsCqDCdBrm_4cX-ena4OdB29SRHfNkBgCix3CAatihTzzeKWITio4iVYaXreMo1xVZFSs7648WSadmocPLLurmHyVNHhWdQzQEsepqMWFJO8yX8R3tiY5c8ToyrBr__hgX&__tn__=EH-R">
     </main>
 
     <footer>
