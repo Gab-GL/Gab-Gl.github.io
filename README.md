@@ -38,13 +38,12 @@
       </a>
       
     </footer>
+    
 <footer>
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
-        Puchame
-      </a>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
         Puchame X2
       </a>
     </footer>
+    
   </body>
 </html>
