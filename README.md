@@ -31,12 +31,10 @@
     <img  src="">
     <img src="">
     </main>
-
     <footer>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
         Puchame
       </a>
-      
     </footer>
     
 <footer>
