@@ -20,7 +20,7 @@
 
     <main>
     <h2> 
-   Ach ni idea de quien seas pero pues mientras no seas "ya sabes quien" todo bien
+   Alch ni idea de quien seas pero pues mientras no seas "ya sabes quien" todo bien
     </h2>
     <h2> 
    Todo va a estar bien ;)
