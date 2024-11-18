@@ -24,6 +24,7 @@
     </h2>
     <h2> 
    Todo va a estar bien ;)
+   Leave you message, it's free ;)
     </h2>
     <h2> 
    NULL <3
@@ -38,7 +39,7 @@
     </footer>
     
 <footer>
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+      <a href="https://youtu.be/fNv1uwoKiWc?si=THUzLTNP97GvLx2Z">
         Puchame X2
       </a>
     </footer>
